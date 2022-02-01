@@ -1,0 +1,10 @@
+C:\Users\90541\Desktop\C#\sample project login panel\sample project login panel\bin\Debug\sample project login panel.exe.config
+C:\Users\90541\Desktop\C#\sample project login panel\sample project login panel\bin\Debug\sample project login panel.exe
+C:\Users\90541\Desktop\C#\sample project login panel\sample project login panel\bin\Debug\sample project login panel.pdb
+C:\Users\90541\Desktop\C#\sample project login panel\sample project login panel\obj\Debug\sample project login panel.csproj.AssemblyReference.cache
+C:\Users\90541\Desktop\C#\sample project login panel\sample project login panel\obj\Debug\sample_project_login_panel.Form1.resources
+C:\Users\90541\Desktop\C#\sample project login panel\sample project login panel\obj\Debug\sample_project_login_panel.Properties.Resources.resources
+C:\Users\90541\Desktop\C#\sample project login panel\sample project login panel\obj\Debug\sample project login panel.csproj.GenerateResource.cache
+C:\Users\90541\Desktop\C#\sample project login panel\sample project login panel\obj\Debug\sample project login panel.csproj.CoreCompileInputs.cache
+C:\Users\90541\Desktop\C#\sample project login panel\sample project login panel\obj\Debug\sample project login panel.exe
+C:\Users\90541\Desktop\C#\sample project login panel\sample project login panel\obj\Debug\sample project login panel.pdb
