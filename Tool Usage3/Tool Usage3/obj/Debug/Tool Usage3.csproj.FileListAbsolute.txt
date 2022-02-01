@@ -1,0 +1,10 @@
+C:\Users\90541\Desktop\C#\Tool Usage3\Tool Usage3\bin\Debug\Tool Usage3.exe.config
+C:\Users\90541\Desktop\C#\Tool Usage3\Tool Usage3\bin\Debug\Tool Usage3.exe
+C:\Users\90541\Desktop\C#\Tool Usage3\Tool Usage3\bin\Debug\Tool Usage3.pdb
+C:\Users\90541\Desktop\C#\Tool Usage3\Tool Usage3\obj\Debug\Tool Usage3.csproj.AssemblyReference.cache
+C:\Users\90541\Desktop\C#\Tool Usage3\Tool Usage3\obj\Debug\Tool_Usage3.Form1.resources
+C:\Users\90541\Desktop\C#\Tool Usage3\Tool Usage3\obj\Debug\Tool_Usage3.Properties.Resources.resources
+C:\Users\90541\Desktop\C#\Tool Usage3\Tool Usage3\obj\Debug\Tool Usage3.csproj.GenerateResource.cache
+C:\Users\90541\Desktop\C#\Tool Usage3\Tool Usage3\obj\Debug\Tool Usage3.csproj.CoreCompileInputs.cache
+C:\Users\90541\Desktop\C#\Tool Usage3\Tool Usage3\obj\Debug\Tool Usage3.exe
+C:\Users\90541\Desktop\C#\Tool Usage3\Tool Usage3\obj\Debug\Tool Usage3.pdb
