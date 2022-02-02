@@ -1,0 +1,10 @@
+C:\Users\90541\Desktop\C#\Variables -string\Variables -string\bin\Debug\Variables -string.exe.config
+C:\Users\90541\Desktop\C#\Variables -string\Variables -string\bin\Debug\Variables -string.exe
+C:\Users\90541\Desktop\C#\Variables -string\Variables -string\bin\Debug\Variables -string.pdb
+C:\Users\90541\Desktop\C#\Variables -string\Variables -string\obj\Debug\Variables -string.csproj.AssemblyReference.cache
+C:\Users\90541\Desktop\C#\Variables -string\Variables -string\obj\Debug\Variables__string.Form1.resources
+C:\Users\90541\Desktop\C#\Variables -string\Variables -string\obj\Debug\Variables__string.Properties.Resources.resources
+C:\Users\90541\Desktop\C#\Variables -string\Variables -string\obj\Debug\Variables -string.csproj.GenerateResource.cache
+C:\Users\90541\Desktop\C#\Variables -string\Variables -string\obj\Debug\Variables -string.csproj.CoreCompileInputs.cache
+C:\Users\90541\Desktop\C#\Variables -string\Variables -string\obj\Debug\Variables -string.exe
+C:\Users\90541\Desktop\C#\Variables -string\Variables -string\obj\Debug\Variables -string.pdb
