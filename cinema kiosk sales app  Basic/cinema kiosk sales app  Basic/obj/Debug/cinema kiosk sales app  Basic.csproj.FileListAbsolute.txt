@@ -1,0 +1,10 @@
+C:\Users\90541\Desktop\C#\cinema kiosk sales app  Basic\cinema kiosk sales app  Basic\bin\Debug\cinema kiosk sales app  Basic.exe.config
+C:\Users\90541\Desktop\C#\cinema kiosk sales app  Basic\cinema kiosk sales app  Basic\bin\Debug\cinema kiosk sales app  Basic.exe
+C:\Users\90541\Desktop\C#\cinema kiosk sales app  Basic\cinema kiosk sales app  Basic\bin\Debug\cinema kiosk sales app  Basic.pdb
+C:\Users\90541\Desktop\C#\cinema kiosk sales app  Basic\cinema kiosk sales app  Basic\obj\Debug\cinema kiosk sales app  Basic.csproj.AssemblyReference.cache
+C:\Users\90541\Desktop\C#\cinema kiosk sales app  Basic\cinema kiosk sales app  Basic\obj\Debug\cinema_kiosk_sales_app__Basic.Form1.resources
+C:\Users\90541\Desktop\C#\cinema kiosk sales app  Basic\cinema kiosk sales app  Basic\obj\Debug\cinema_kiosk_sales_app__Basic.Properties.Resources.resources
+C:\Users\90541\Desktop\C#\cinema kiosk sales app  Basic\cinema kiosk sales app  Basic\obj\Debug\cinema kiosk sales app  Basic.csproj.GenerateResource.cache
+C:\Users\90541\Desktop\C#\cinema kiosk sales app  Basic\cinema kiosk sales app  Basic\obj\Debug\cinema kiosk sales app  Basic.csproj.CoreCompileInputs.cache
+C:\Users\90541\Desktop\C#\cinema kiosk sales app  Basic\cinema kiosk sales app  Basic\obj\Debug\cinema kiosk sales app  Basic.exe
+C:\Users\90541\Desktop\C#\cinema kiosk sales app  Basic\cinema kiosk sales app  Basic\obj\Debug\cinema kiosk sales app  Basic.pdb
