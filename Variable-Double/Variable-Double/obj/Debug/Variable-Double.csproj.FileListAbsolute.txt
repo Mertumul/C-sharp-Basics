@@ -1,0 +1,10 @@
+C:\Users\90541\Desktop\C#\Variable-Double\Variable-Double\bin\Debug\Variable-Double.exe.config
+C:\Users\90541\Desktop\C#\Variable-Double\Variable-Double\bin\Debug\Variable-Double.exe
+C:\Users\90541\Desktop\C#\Variable-Double\Variable-Double\bin\Debug\Variable-Double.pdb
+C:\Users\90541\Desktop\C#\Variable-Double\Variable-Double\obj\Debug\Variable-Double.csproj.AssemblyReference.cache
+C:\Users\90541\Desktop\C#\Variable-Double\Variable-Double\obj\Debug\Variable_Double.Form1.resources
+C:\Users\90541\Desktop\C#\Variable-Double\Variable-Double\obj\Debug\Variable_Double.Properties.Resources.resources
+C:\Users\90541\Desktop\C#\Variable-Double\Variable-Double\obj\Debug\Variable-Double.csproj.GenerateResource.cache
+C:\Users\90541\Desktop\C#\Variable-Double\Variable-Double\obj\Debug\Variable-Double.csproj.CoreCompileInputs.cache
+C:\Users\90541\Desktop\C#\Variable-Double\Variable-Double\obj\Debug\Variable-Double.exe
+C:\Users\90541\Desktop\C#\Variable-Double\Variable-Double\obj\Debug\Variable-Double.pdb
