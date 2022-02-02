@@ -1,0 +1,10 @@
+C:\Users\90541\Desktop\C#\Variable-Integer\Variable-Integer\bin\Debug\Variable-Integer.exe.config
+C:\Users\90541\Desktop\C#\Variable-Integer\Variable-Integer\bin\Debug\Variable-Integer.exe
+C:\Users\90541\Desktop\C#\Variable-Integer\Variable-Integer\bin\Debug\Variable-Integer.pdb
+C:\Users\90541\Desktop\C#\Variable-Integer\Variable-Integer\obj\Debug\Variable-Integer.csproj.AssemblyReference.cache
+C:\Users\90541\Desktop\C#\Variable-Integer\Variable-Integer\obj\Debug\Variable_Integer.Form1.resources
+C:\Users\90541\Desktop\C#\Variable-Integer\Variable-Integer\obj\Debug\Variable_Integer.Properties.Resources.resources
+C:\Users\90541\Desktop\C#\Variable-Integer\Variable-Integer\obj\Debug\Variable-Integer.csproj.GenerateResource.cache
+C:\Users\90541\Desktop\C#\Variable-Integer\Variable-Integer\obj\Debug\Variable-Integer.csproj.CoreCompileInputs.cache
+C:\Users\90541\Desktop\C#\Variable-Integer\Variable-Integer\obj\Debug\Variable-Integer.exe
+C:\Users\90541\Desktop\C#\Variable-Integer\Variable-Integer\obj\Debug\Variable-Integer.pdb
