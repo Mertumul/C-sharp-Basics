@@ -1,0 +1,10 @@
+C:\Users\90541\Desktop\C#\Decision Structures -Exercies\Decision Structures -Exercies\bin\Debug\Decision Structures -Exercies.exe.config
+C:\Users\90541\Desktop\C#\Decision Structures -Exercies\Decision Structures -Exercies\bin\Debug\Decision Structures -Exercies.exe
+C:\Users\90541\Desktop\C#\Decision Structures -Exercies\Decision Structures -Exercies\bin\Debug\Decision Structures -Exercies.pdb
+C:\Users\90541\Desktop\C#\Decision Structures -Exercies\Decision Structures -Exercies\obj\Debug\Decision Structures -Exercies.csproj.AssemblyReference.cache
+C:\Users\90541\Desktop\C#\Decision Structures -Exercies\Decision Structures -Exercies\obj\Debug\Decision_Structures__Exercies.Form1.resources
+C:\Users\90541\Desktop\C#\Decision Structures -Exercies\Decision Structures -Exercies\obj\Debug\Decision_Structures__Exercies.Properties.Resources.resources
+C:\Users\90541\Desktop\C#\Decision Structures -Exercies\Decision Structures -Exercies\obj\Debug\Decision Structures -Exercies.csproj.GenerateResource.cache
+C:\Users\90541\Desktop\C#\Decision Structures -Exercies\Decision Structures -Exercies\obj\Debug\Decision Structures -Exercies.csproj.CoreCompileInputs.cache
+C:\Users\90541\Desktop\C#\Decision Structures -Exercies\Decision Structures -Exercies\obj\Debug\Decision Structures -Exercies.exe
+C:\Users\90541\Desktop\C#\Decision Structures -Exercies\Decision Structures -Exercies\obj\Debug\Decision Structures -Exercies.pdb
