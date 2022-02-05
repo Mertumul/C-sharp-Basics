@@ -1,0 +1,10 @@
+C:\Users\90541\Desktop\C#\Basic shopping discount calculator\Basic shopping discount calculator\bin\Debug\Basic shopping discount calculator.exe.config
+C:\Users\90541\Desktop\C#\Basic shopping discount calculator\Basic shopping discount calculator\bin\Debug\Basic shopping discount calculator.exe
+C:\Users\90541\Desktop\C#\Basic shopping discount calculator\Basic shopping discount calculator\bin\Debug\Basic shopping discount calculator.pdb
+C:\Users\90541\Desktop\C#\Basic shopping discount calculator\Basic shopping discount calculator\obj\Debug\Basic shopping discount calculator.csproj.AssemblyReference.cache
+C:\Users\90541\Desktop\C#\Basic shopping discount calculator\Basic shopping discount calculator\obj\Debug\Basic_shopping_discount_calculator.Form1.resources
+C:\Users\90541\Desktop\C#\Basic shopping discount calculator\Basic shopping discount calculator\obj\Debug\Basic_shopping_discount_calculator.Properties.Resources.resources
+C:\Users\90541\Desktop\C#\Basic shopping discount calculator\Basic shopping discount calculator\obj\Debug\Basic shopping discount calculator.csproj.GenerateResource.cache
+C:\Users\90541\Desktop\C#\Basic shopping discount calculator\Basic shopping discount calculator\obj\Debug\Basic shopping discount calculator.csproj.CoreCompileInputs.cache
+C:\Users\90541\Desktop\C#\Basic shopping discount calculator\Basic shopping discount calculator\obj\Debug\Basic shopping discount calculator.exe
+C:\Users\90541\Desktop\C#\Basic shopping discount calculator\Basic shopping discount calculator\obj\Debug\Basic shopping discount calculator.pdb
