@@ -1,0 +1,10 @@
+C:\Users\90541\source\repos\knowledge_ competition\knowledge_ competition\bin\Debug\knowledge_ competition.exe.config
+C:\Users\90541\source\repos\knowledge_ competition\knowledge_ competition\bin\Debug\knowledge_ competition.exe
+C:\Users\90541\source\repos\knowledge_ competition\knowledge_ competition\bin\Debug\knowledge_ competition.pdb
+C:\Users\90541\source\repos\knowledge_ competition\knowledge_ competition\obj\Debug\knowledge_ competition.csproj.AssemblyReference.cache
+C:\Users\90541\source\repos\knowledge_ competition\knowledge_ competition\obj\Debug\knowledge__competition.Form1.resources
+C:\Users\90541\source\repos\knowledge_ competition\knowledge_ competition\obj\Debug\knowledge__competition.Properties.Resources.resources
+C:\Users\90541\source\repos\knowledge_ competition\knowledge_ competition\obj\Debug\knowledge_ competition.csproj.GenerateResource.cache
+C:\Users\90541\source\repos\knowledge_ competition\knowledge_ competition\obj\Debug\knowledge_ competition.csproj.CoreCompileInputs.cache
+C:\Users\90541\source\repos\knowledge_ competition\knowledge_ competition\obj\Debug\knowledge_ competition.exe
+C:\Users\90541\source\repos\knowledge_ competition\knowledge_ competition\obj\Debug\knowledge_ competition.pdb
