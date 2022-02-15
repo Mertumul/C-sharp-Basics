@@ -1,0 +1,10 @@
+C:\Users\90541\source\repos\timer and progressbar simple project\timer and progressbar simple project\bin\Debug\timer and progressbar simple project.exe.config
+C:\Users\90541\source\repos\timer and progressbar simple project\timer and progressbar simple project\bin\Debug\timer and progressbar simple project.exe
+C:\Users\90541\source\repos\timer and progressbar simple project\timer and progressbar simple project\bin\Debug\timer and progressbar simple project.pdb
+C:\Users\90541\source\repos\timer and progressbar simple project\timer and progressbar simple project\obj\Debug\timer and progressbar simple project.csproj.AssemblyReference.cache
+C:\Users\90541\source\repos\timer and progressbar simple project\timer and progressbar simple project\obj\Debug\timer_and_progressbar_simple_project.Form1.resources
+C:\Users\90541\source\repos\timer and progressbar simple project\timer and progressbar simple project\obj\Debug\timer_and_progressbar_simple_project.Properties.Resources.resources
+C:\Users\90541\source\repos\timer and progressbar simple project\timer and progressbar simple project\obj\Debug\timer and progressbar simple project.csproj.GenerateResource.cache
+C:\Users\90541\source\repos\timer and progressbar simple project\timer and progressbar simple project\obj\Debug\timer and progressbar simple project.csproj.CoreCompileInputs.cache
+C:\Users\90541\source\repos\timer and progressbar simple project\timer and progressbar simple project\obj\Debug\timer and progressbar simple project.exe
+C:\Users\90541\source\repos\timer and progressbar simple project\timer and progressbar simple project\obj\Debug\timer and progressbar simple project.pdb
