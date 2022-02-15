@@ -1,0 +1,10 @@
+C:\Users\90541\Desktop\C#\timer__usage\timer__usage\bin\Debug\timer__usage.exe.config
+C:\Users\90541\Desktop\C#\timer__usage\timer__usage\bin\Debug\timer__usage.exe
+C:\Users\90541\Desktop\C#\timer__usage\timer__usage\bin\Debug\timer__usage.pdb
+C:\Users\90541\Desktop\C#\timer__usage\timer__usage\obj\Debug\timer__usage.csproj.AssemblyReference.cache
+C:\Users\90541\Desktop\C#\timer__usage\timer__usage\obj\Debug\timer__usage.Form1.resources
+C:\Users\90541\Desktop\C#\timer__usage\timer__usage\obj\Debug\timer__usage.Properties.Resources.resources
+C:\Users\90541\Desktop\C#\timer__usage\timer__usage\obj\Debug\timer__usage.csproj.GenerateResource.cache
+C:\Users\90541\Desktop\C#\timer__usage\timer__usage\obj\Debug\timer__usage.csproj.CoreCompileInputs.cache
+C:\Users\90541\Desktop\C#\timer__usage\timer__usage\obj\Debug\timer__usage.exe
+C:\Users\90541\Desktop\C#\timer__usage\timer__usage\obj\Debug\timer__usage.pdb
