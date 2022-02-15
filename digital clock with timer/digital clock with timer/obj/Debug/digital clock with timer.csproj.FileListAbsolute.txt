@@ -1,0 +1,10 @@
+C:\Users\90541\Desktop\C#\digital clock with timer\digital clock with timer\bin\Debug\digital clock with timer.exe.config
+C:\Users\90541\Desktop\C#\digital clock with timer\digital clock with timer\bin\Debug\digital clock with timer.exe
+C:\Users\90541\Desktop\C#\digital clock with timer\digital clock with timer\bin\Debug\digital clock with timer.pdb
+C:\Users\90541\Desktop\C#\digital clock with timer\digital clock with timer\obj\Debug\digital clock with timer.csproj.AssemblyReference.cache
+C:\Users\90541\Desktop\C#\digital clock with timer\digital clock with timer\obj\Debug\digital_clock_with_timer.Form1.resources
+C:\Users\90541\Desktop\C#\digital clock with timer\digital clock with timer\obj\Debug\digital_clock_with_timer.Properties.Resources.resources
+C:\Users\90541\Desktop\C#\digital clock with timer\digital clock with timer\obj\Debug\digital clock with timer.csproj.GenerateResource.cache
+C:\Users\90541\Desktop\C#\digital clock with timer\digital clock with timer\obj\Debug\digital clock with timer.csproj.CoreCompileInputs.cache
+C:\Users\90541\Desktop\C#\digital clock with timer\digital clock with timer\obj\Debug\digital clock with timer.exe
+C:\Users\90541\Desktop\C#\digital clock with timer\digital clock with timer\obj\Debug\digital clock with timer.pdb
