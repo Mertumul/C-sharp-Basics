@@ -1,0 +1,10 @@
+C:\Users\90541\Desktop\C#\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\90541\Desktop\C#\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\90541\Desktop\C#\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\90541\Desktop\C#\Methods\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\90541\Desktop\C#\Methods\Methods\obj\Debug\Methods.Form1.resources
+C:\Users\90541\Desktop\C#\Methods\Methods\obj\Debug\Methods.Properties.Resources.resources
+C:\Users\90541\Desktop\C#\Methods\Methods\obj\Debug\Methods.csproj.GenerateResource.cache
+C:\Users\90541\Desktop\C#\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\90541\Desktop\C#\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\90541\Desktop\C#\Methods\Methods\obj\Debug\Methods.pdb
