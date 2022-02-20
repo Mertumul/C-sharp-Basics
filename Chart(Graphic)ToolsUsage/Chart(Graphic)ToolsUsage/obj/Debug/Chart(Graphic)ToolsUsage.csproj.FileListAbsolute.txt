@@ -1,0 +1,10 @@
+C:\Users\90541\Desktop\C#\Chart(Graphic)ToolsUsage\Chart(Graphic)ToolsUsage\bin\Debug\Chart(Graphic)ToolsUsage.exe.config
+C:\Users\90541\Desktop\C#\Chart(Graphic)ToolsUsage\Chart(Graphic)ToolsUsage\bin\Debug\Chart(Graphic)ToolsUsage.exe
+C:\Users\90541\Desktop\C#\Chart(Graphic)ToolsUsage\Chart(Graphic)ToolsUsage\bin\Debug\Chart(Graphic)ToolsUsage.pdb
+C:\Users\90541\Desktop\C#\Chart(Graphic)ToolsUsage\Chart(Graphic)ToolsUsage\obj\Debug\Chart(Graphic)ToolsUsage.csproj.AssemblyReference.cache
+C:\Users\90541\Desktop\C#\Chart(Graphic)ToolsUsage\Chart(Graphic)ToolsUsage\obj\Debug\Chart_Graphic_ToolsUsage.Form1.resources
+C:\Users\90541\Desktop\C#\Chart(Graphic)ToolsUsage\Chart(Graphic)ToolsUsage\obj\Debug\Chart_Graphic_ToolsUsage.Properties.Resources.resources
+C:\Users\90541\Desktop\C#\Chart(Graphic)ToolsUsage\Chart(Graphic)ToolsUsage\obj\Debug\Chart(Graphic)ToolsUsage.csproj.GenerateResource.cache
+C:\Users\90541\Desktop\C#\Chart(Graphic)ToolsUsage\Chart(Graphic)ToolsUsage\obj\Debug\Chart(Graphic)ToolsUsage.csproj.CoreCompileInputs.cache
+C:\Users\90541\Desktop\C#\Chart(Graphic)ToolsUsage\Chart(Graphic)ToolsUsage\obj\Debug\Chart(Graphic)ToolsUsage.exe
+C:\Users\90541\Desktop\C#\Chart(Graphic)ToolsUsage\Chart(Graphic)ToolsUsage\obj\Debug\Chart(Graphic)ToolsUsage.pdb
