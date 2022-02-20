@@ -1,0 +1,10 @@
+C:\Users\90541\Desktop\C#\ContextMenuStripUsage\ContextMenuStripUsage\bin\Debug\ContextMenuStripUsage.exe.config
+C:\Users\90541\Desktop\C#\ContextMenuStripUsage\ContextMenuStripUsage\bin\Debug\ContextMenuStripUsage.exe
+C:\Users\90541\Desktop\C#\ContextMenuStripUsage\ContextMenuStripUsage\bin\Debug\ContextMenuStripUsage.pdb
+C:\Users\90541\Desktop\C#\ContextMenuStripUsage\ContextMenuStripUsage\obj\Debug\ContextMenuStripUsage.csproj.AssemblyReference.cache
+C:\Users\90541\Desktop\C#\ContextMenuStripUsage\ContextMenuStripUsage\obj\Debug\ContextMenuStripUsage.Form1.resources
+C:\Users\90541\Desktop\C#\ContextMenuStripUsage\ContextMenuStripUsage\obj\Debug\ContextMenuStripUsage.Properties.Resources.resources
+C:\Users\90541\Desktop\C#\ContextMenuStripUsage\ContextMenuStripUsage\obj\Debug\ContextMenuStripUsage.csproj.GenerateResource.cache
+C:\Users\90541\Desktop\C#\ContextMenuStripUsage\ContextMenuStripUsage\obj\Debug\ContextMenuStripUsage.csproj.CoreCompileInputs.cache
+C:\Users\90541\Desktop\C#\ContextMenuStripUsage\ContextMenuStripUsage\obj\Debug\ContextMenuStripUsage.exe
+C:\Users\90541\Desktop\C#\ContextMenuStripUsage\ContextMenuStripUsage\obj\Debug\ContextMenuStripUsage.pdb
