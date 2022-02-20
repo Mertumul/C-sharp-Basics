@@ -1,0 +1,10 @@
+C:\Users\90541\source\repos\Menu Strip Usage\Menu Strip Usage\bin\Debug\Menu Strip Usage.exe.config
+C:\Users\90541\source\repos\Menu Strip Usage\Menu Strip Usage\bin\Debug\Menu Strip Usage.exe
+C:\Users\90541\source\repos\Menu Strip Usage\Menu Strip Usage\bin\Debug\Menu Strip Usage.pdb
+C:\Users\90541\source\repos\Menu Strip Usage\Menu Strip Usage\obj\Debug\Menu Strip Usage.csproj.AssemblyReference.cache
+C:\Users\90541\source\repos\Menu Strip Usage\Menu Strip Usage\obj\Debug\Menu_Strip_Usage.Form1.resources
+C:\Users\90541\source\repos\Menu Strip Usage\Menu Strip Usage\obj\Debug\Menu_Strip_Usage.Properties.Resources.resources
+C:\Users\90541\source\repos\Menu Strip Usage\Menu Strip Usage\obj\Debug\Menu Strip Usage.csproj.GenerateResource.cache
+C:\Users\90541\source\repos\Menu Strip Usage\Menu Strip Usage\obj\Debug\Menu Strip Usage.csproj.CoreCompileInputs.cache
+C:\Users\90541\source\repos\Menu Strip Usage\Menu Strip Usage\obj\Debug\Menu Strip Usage.exe
+C:\Users\90541\source\repos\Menu Strip Usage\Menu Strip Usage\obj\Debug\Menu Strip Usage.pdb
