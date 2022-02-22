@@ -1,0 +1,10 @@
+C:\Users\90541\Desktop\C#\Enum Structure\Enum Structure\bin\Debug\Enum Structure.exe.config
+C:\Users\90541\Desktop\C#\Enum Structure\Enum Structure\bin\Debug\Enum Structure.exe
+C:\Users\90541\Desktop\C#\Enum Structure\Enum Structure\bin\Debug\Enum Structure.pdb
+C:\Users\90541\Desktop\C#\Enum Structure\Enum Structure\obj\Debug\Enum Structure.csproj.AssemblyReference.cache
+C:\Users\90541\Desktop\C#\Enum Structure\Enum Structure\obj\Debug\Enum_Structure.Form1.resources
+C:\Users\90541\Desktop\C#\Enum Structure\Enum Structure\obj\Debug\Enum_Structure.Properties.Resources.resources
+C:\Users\90541\Desktop\C#\Enum Structure\Enum Structure\obj\Debug\Enum Structure.csproj.GenerateResource.cache
+C:\Users\90541\Desktop\C#\Enum Structure\Enum Structure\obj\Debug\Enum Structure.csproj.CoreCompileInputs.cache
+C:\Users\90541\Desktop\C#\Enum Structure\Enum Structure\obj\Debug\Enum Structure.exe
+C:\Users\90541\Desktop\C#\Enum Structure\Enum Structure\obj\Debug\Enum Structure.pdb
