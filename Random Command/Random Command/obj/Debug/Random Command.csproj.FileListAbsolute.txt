@@ -1,0 +1,10 @@
+C:\Users\90541\Desktop\C#\Random Command\Random Command\bin\Debug\Random Command.exe.config
+C:\Users\90541\Desktop\C#\Random Command\Random Command\bin\Debug\Random Command.exe
+C:\Users\90541\Desktop\C#\Random Command\Random Command\bin\Debug\Random Command.pdb
+C:\Users\90541\Desktop\C#\Random Command\Random Command\obj\Debug\Random Command.csproj.AssemblyReference.cache
+C:\Users\90541\Desktop\C#\Random Command\Random Command\obj\Debug\Random_Command.Form1.resources
+C:\Users\90541\Desktop\C#\Random Command\Random Command\obj\Debug\Random_Command.Properties.Resources.resources
+C:\Users\90541\Desktop\C#\Random Command\Random Command\obj\Debug\Random Command.csproj.GenerateResource.cache
+C:\Users\90541\Desktop\C#\Random Command\Random Command\obj\Debug\Random Command.csproj.CoreCompileInputs.cache
+C:\Users\90541\Desktop\C#\Random Command\Random Command\obj\Debug\Random Command.exe
+C:\Users\90541\Desktop\C#\Random Command\Random Command\obj\Debug\Random Command.pdb
