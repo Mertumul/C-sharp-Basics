@@ -1,0 +1,11 @@
+C:\Users\90541\source\repos\form uygulamaları\form uygulamaları\bin\Debug\form uygulamaları.exe.config
+C:\Users\90541\source\repos\form uygulamaları\form uygulamaları\bin\Debug\form uygulamaları.exe
+C:\Users\90541\source\repos\form uygulamaları\form uygulamaları\bin\Debug\form uygulamaları.pdb
+C:\Users\90541\source\repos\form uygulamaları\form uygulamaları\obj\Debug\form uygulamaları.csproj.AssemblyReference.cache
+C:\Users\90541\source\repos\form uygulamaları\form uygulamaları\obj\Debug\form_uygulamaları.Form1.resources
+C:\Users\90541\source\repos\form uygulamaları\form uygulamaları\obj\Debug\form_uygulamaları.Form2.resources
+C:\Users\90541\source\repos\form uygulamaları\form uygulamaları\obj\Debug\form_uygulamaları.Properties.Resources.resources
+C:\Users\90541\source\repos\form uygulamaları\form uygulamaları\obj\Debug\form uygulamaları.csproj.GenerateResource.cache
+C:\Users\90541\source\repos\form uygulamaları\form uygulamaları\obj\Debug\form uygulamaları.csproj.CoreCompileInputs.cache
+C:\Users\90541\source\repos\form uygulamaları\form uygulamaları\obj\Debug\form uygulamaları.exe
+C:\Users\90541\source\repos\form uygulamaları\form uygulamaları\obj\Debug\form uygulamaları.pdb
