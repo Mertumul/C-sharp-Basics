@@ -1,0 +1,10 @@
+C:\Users\90541\Desktop\C#\Basic lotery app\Basic lotery app\bin\Debug\Basic lotery app.exe.config
+C:\Users\90541\Desktop\C#\Basic lotery app\Basic lotery app\bin\Debug\Basic lotery app.exe
+C:\Users\90541\Desktop\C#\Basic lotery app\Basic lotery app\bin\Debug\Basic lotery app.pdb
+C:\Users\90541\Desktop\C#\Basic lotery app\Basic lotery app\obj\Debug\Basic lotery app.csproj.AssemblyReference.cache
+C:\Users\90541\Desktop\C#\Basic lotery app\Basic lotery app\obj\Debug\Basic_lotery_app.Form1.resources
+C:\Users\90541\Desktop\C#\Basic lotery app\Basic lotery app\obj\Debug\Basic_lotery_app.Properties.Resources.resources
+C:\Users\90541\Desktop\C#\Basic lotery app\Basic lotery app\obj\Debug\Basic lotery app.csproj.GenerateResource.cache
+C:\Users\90541\Desktop\C#\Basic lotery app\Basic lotery app\obj\Debug\Basic lotery app.csproj.CoreCompileInputs.cache
+C:\Users\90541\Desktop\C#\Basic lotery app\Basic lotery app\obj\Debug\Basic lotery app.exe
+C:\Users\90541\Desktop\C#\Basic lotery app\Basic lotery app\obj\Debug\Basic lotery app.pdb
