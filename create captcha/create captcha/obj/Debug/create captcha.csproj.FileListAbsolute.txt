@@ -1,0 +1,10 @@
+C:\Users\90541\Desktop\C#\create captcha\create captcha\bin\Debug\create captcha.exe.config
+C:\Users\90541\Desktop\C#\create captcha\create captcha\bin\Debug\create captcha.exe
+C:\Users\90541\Desktop\C#\create captcha\create captcha\bin\Debug\create captcha.pdb
+C:\Users\90541\Desktop\C#\create captcha\create captcha\obj\Debug\create captcha.csproj.AssemblyReference.cache
+C:\Users\90541\Desktop\C#\create captcha\create captcha\obj\Debug\create_captcha.Form1.resources
+C:\Users\90541\Desktop\C#\create captcha\create captcha\obj\Debug\create_captcha.Properties.Resources.resources
+C:\Users\90541\Desktop\C#\create captcha\create captcha\obj\Debug\create captcha.csproj.GenerateResource.cache
+C:\Users\90541\Desktop\C#\create captcha\create captcha\obj\Debug\create captcha.csproj.CoreCompileInputs.cache
+C:\Users\90541\Desktop\C#\create captcha\create captcha\obj\Debug\create captcha.exe
+C:\Users\90541\Desktop\C#\create captcha\create captcha\obj\Debug\create captcha.pdb
