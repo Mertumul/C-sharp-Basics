@@ -1,0 +1,10 @@
+C:\Users\90541\Desktop\C#\point structure\point structure\bin\Debug\point structure.exe.config
+C:\Users\90541\Desktop\C#\point structure\point structure\bin\Debug\point structure.exe
+C:\Users\90541\Desktop\C#\point structure\point structure\bin\Debug\point structure.pdb
+C:\Users\90541\Desktop\C#\point structure\point structure\obj\Debug\point structure.csproj.AssemblyReference.cache
+C:\Users\90541\Desktop\C#\point structure\point structure\obj\Debug\point_structure.Form1.resources
+C:\Users\90541\Desktop\C#\point structure\point structure\obj\Debug\point_structure.Properties.Resources.resources
+C:\Users\90541\Desktop\C#\point structure\point structure\obj\Debug\point structure.csproj.GenerateResource.cache
+C:\Users\90541\Desktop\C#\point structure\point structure\obj\Debug\point structure.csproj.CoreCompileInputs.cache
+C:\Users\90541\Desktop\C#\point structure\point structure\obj\Debug\point structure.exe
+C:\Users\90541\Desktop\C#\point structure\point structure\obj\Debug\point structure.pdb
