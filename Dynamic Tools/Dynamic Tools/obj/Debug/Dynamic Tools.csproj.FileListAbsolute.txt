@@ -1,0 +1,10 @@
+C:\Users\90541\Desktop\C#\Dynamic Tools\Dynamic Tools\bin\Debug\Dynamic Tools.exe.config
+C:\Users\90541\Desktop\C#\Dynamic Tools\Dynamic Tools\bin\Debug\Dynamic Tools.exe
+C:\Users\90541\Desktop\C#\Dynamic Tools\Dynamic Tools\bin\Debug\Dynamic Tools.pdb
+C:\Users\90541\Desktop\C#\Dynamic Tools\Dynamic Tools\obj\Debug\Dynamic Tools.csproj.AssemblyReference.cache
+C:\Users\90541\Desktop\C#\Dynamic Tools\Dynamic Tools\obj\Debug\Dynamic_Tools.Form1.resources
+C:\Users\90541\Desktop\C#\Dynamic Tools\Dynamic Tools\obj\Debug\Dynamic_Tools.Properties.Resources.resources
+C:\Users\90541\Desktop\C#\Dynamic Tools\Dynamic Tools\obj\Debug\Dynamic Tools.csproj.GenerateResource.cache
+C:\Users\90541\Desktop\C#\Dynamic Tools\Dynamic Tools\obj\Debug\Dynamic Tools.csproj.CoreCompileInputs.cache
+C:\Users\90541\Desktop\C#\Dynamic Tools\Dynamic Tools\obj\Debug\Dynamic Tools.exe
+C:\Users\90541\Desktop\C#\Dynamic Tools\Dynamic Tools\obj\Debug\Dynamic Tools.pdb
