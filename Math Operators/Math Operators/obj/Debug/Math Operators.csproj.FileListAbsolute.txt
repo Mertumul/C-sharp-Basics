@@ -1,0 +1,10 @@
+C:\Users\90541\Desktop\C#\Math Operators\Math Operators\bin\Debug\Math Operators.exe.config
+C:\Users\90541\Desktop\C#\Math Operators\Math Operators\bin\Debug\Math Operators.exe
+C:\Users\90541\Desktop\C#\Math Operators\Math Operators\bin\Debug\Math Operators.pdb
+C:\Users\90541\Desktop\C#\Math Operators\Math Operators\obj\Debug\Math Operators.csproj.AssemblyReference.cache
+C:\Users\90541\Desktop\C#\Math Operators\Math Operators\obj\Debug\Math_Operators.Form1.resources
+C:\Users\90541\Desktop\C#\Math Operators\Math Operators\obj\Debug\Math_Operators.Properties.Resources.resources
+C:\Users\90541\Desktop\C#\Math Operators\Math Operators\obj\Debug\Math Operators.csproj.GenerateResource.cache
+C:\Users\90541\Desktop\C#\Math Operators\Math Operators\obj\Debug\Math Operators.csproj.CoreCompileInputs.cache
+C:\Users\90541\Desktop\C#\Math Operators\Math Operators\obj\Debug\Math Operators.exe
+C:\Users\90541\Desktop\C#\Math Operators\Math Operators\obj\Debug\Math Operators.pdb
