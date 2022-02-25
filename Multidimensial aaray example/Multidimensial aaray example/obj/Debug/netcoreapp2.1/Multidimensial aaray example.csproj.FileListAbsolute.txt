@@ -1,0 +1,11 @@
+C:\Users\B16\Desktop\c#learning\Multidimensial aaray example\Multidimensial aaray example\obj\Debug\netcoreapp2.1\Multidimensial aaray example.csprojAssemblyReference.cache
+C:\Users\B16\Desktop\c#learning\Multidimensial aaray example\Multidimensial aaray example\obj\Debug\netcoreapp2.1\Multidimensial aaray example.csproj.CoreCompileInputs.cache
+C:\Users\B16\Desktop\c#learning\Multidimensial aaray example\Multidimensial aaray example\obj\Debug\netcoreapp2.1\Multidimensial aaray example.AssemblyInfoInputs.cache
+C:\Users\B16\Desktop\c#learning\Multidimensial aaray example\Multidimensial aaray example\obj\Debug\netcoreapp2.1\Multidimensial aaray example.AssemblyInfo.cs
+C:\Users\B16\Desktop\c#learning\Multidimensial aaray example\Multidimensial aaray example\bin\Debug\netcoreapp2.1\Multidimensial aaray example.deps.json
+C:\Users\B16\Desktop\c#learning\Multidimensial aaray example\Multidimensial aaray example\bin\Debug\netcoreapp2.1\Multidimensial aaray example.runtimeconfig.json
+C:\Users\B16\Desktop\c#learning\Multidimensial aaray example\Multidimensial aaray example\bin\Debug\netcoreapp2.1\Multidimensial aaray example.runtimeconfig.dev.json
+C:\Users\B16\Desktop\c#learning\Multidimensial aaray example\Multidimensial aaray example\bin\Debug\netcoreapp2.1\Multidimensial aaray example.dll
+C:\Users\B16\Desktop\c#learning\Multidimensial aaray example\Multidimensial aaray example\bin\Debug\netcoreapp2.1\Multidimensial aaray example.pdb
+C:\Users\B16\Desktop\c#learning\Multidimensial aaray example\Multidimensial aaray example\obj\Debug\netcoreapp2.1\Multidimensial aaray example.dll
+C:\Users\B16\Desktop\c#learning\Multidimensial aaray example\Multidimensial aaray example\obj\Debug\netcoreapp2.1\Multidimensial aaray example.pdb
