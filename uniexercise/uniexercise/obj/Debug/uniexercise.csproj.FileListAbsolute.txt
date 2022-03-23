@@ -1,0 +1,10 @@
+C:\Users\B16\Desktop\c#learning\uniexercise\uniexercise\bin\Debug\uniexercise.exe.config
+C:\Users\B16\Desktop\c#learning\uniexercise\uniexercise\bin\Debug\uniexercise.exe
+C:\Users\B16\Desktop\c#learning\uniexercise\uniexercise\bin\Debug\uniexercise.pdb
+C:\Users\B16\Desktop\c#learning\uniexercise\uniexercise\obj\Debug\uniexercise.csprojAssemblyReference.cache
+C:\Users\B16\Desktop\c#learning\uniexercise\uniexercise\obj\Debug\uniexercise.Form1.resources
+C:\Users\B16\Desktop\c#learning\uniexercise\uniexercise\obj\Debug\uniexercise.Properties.Resources.resources
+C:\Users\B16\Desktop\c#learning\uniexercise\uniexercise\obj\Debug\uniexercise.csproj.GenerateResource.cache
+C:\Users\B16\Desktop\c#learning\uniexercise\uniexercise\obj\Debug\uniexercise.csproj.CoreCompileInputs.cache
+C:\Users\B16\Desktop\c#learning\uniexercise\uniexercise\obj\Debug\uniexercise.exe
+C:\Users\B16\Desktop\c#learning\uniexercise\uniexercise\obj\Debug\uniexercise.pdb
